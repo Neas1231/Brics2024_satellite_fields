@@ -1,2 +1,2 @@
-# Brics2024_satellite_fields
+# Satellite_fields
  
