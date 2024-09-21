@@ -1,0 +1,2 @@
+call D:\hran\anacondaz\Scripts\activate.bat
+D:\hran\anacondaz\python.exe D:\hran\anacondaz\cwp.py D:\hran\anacondaz D:\hran\anacondaz\python.exe D:\hran\anacondaz\Scripts\jupyter-notebook-script.py "D:/Github_proj"

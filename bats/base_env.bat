@@ -1,0 +1,1 @@
+call D:\hran\anacondaz\Scripts\activate.bat
